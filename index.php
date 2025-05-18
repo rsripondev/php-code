@@ -9,6 +9,7 @@
     <?php
 
     echo (" Php Code Start");
+    echo ("PHP Case Sensitivity & Comments");
     ?>
 </body>
 </html>
