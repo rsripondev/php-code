@@ -8,8 +8,29 @@
 <body>
     <?php
 
-    echo (" Php Code Start");
-    echo ("PHP Case Sensitivity & Comments");
+    $name = "My Name is Ripon";
+
+    echo $name;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     ?>
 </body>
 </html>
